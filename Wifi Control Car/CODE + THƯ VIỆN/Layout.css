@@ -1,0 +1,67 @@
+body {
+  text-align:center;
+}
+h1 {color:#003399;}
+a {text-decoration: none;color:#FFFFFF;}
+.img_button
+{
+  width: 50px;
+  height: 50px;
+}
+.middle_button
+{
+  width: 100%;
+}
+.bt_left {
+  height:50px; 
+  width:100px; 
+  margin:5px 0;
+  margin-right: 20px;
+  background-color:#FF6600;
+  border-radius:5px;}
+.bt_right {
+  height:50px; 
+  width:100px; 
+  margin:5px 0;
+  margin-left: 20px;
+  background-color:#FF6600;
+  border-radius:5px;}
+.bt_top {
+  height:50px; 
+  width:100px; 
+  margin:10px 0;
+  align-items: center;
+  background-color:#00FF00;
+  border-radius:5px;
+}
+.bt_bottom {
+  height:50px; 
+  width:100px; 
+  margin:10px 0;
+  background-color:#00FF00;
+  border-radius:5px;}
+
+.bt_lefton {
+  height:50px; 
+  width:100px; 
+  margin:10px 0;
+  background-color:#FF6600;
+  border-radius:5px;}
+.bt_leftoff {
+  height:50px; 
+  width:100px; 
+  margin:10px 0;
+  background-color:#00FF00;
+  border-radius:5px;}
+.bt_buzzon {
+  height:50px; 
+  width:100px; 
+  margin:10px 0;
+  background-color:#FF6600;
+  border-radius:5px;}
+.bt_buzzoff {
+  height:50px; 
+  width:100px;
+   margin:10px 0;
+   background-color:#00FF00;
+   border-radius:5px;}
